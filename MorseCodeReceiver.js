@@ -28,6 +28,7 @@
 var lookupTable = {
 	DotDash: "a",
 	DashDotDotDot: "b",
+	DashDotDashDot: "c",
 	
 }
 
