@@ -26,6 +26,8 @@
 
 // ADD YOUR ADDITIONAL FUNCTIONS AND GLOBAL VARIABLES HERE
 var lookupTable = {
+	DotDashDotDash: "</br>"
+	DotDotDotDashDotDash: "END OF TRANSMISSION"
 	DotDash: "a",
 	DashDotDotDot: "b",
 	DashDotDashDot: "c",
